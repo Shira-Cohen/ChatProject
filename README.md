@@ -28,7 +28,9 @@ open the folder in VS code and install:
 ```
 pip3 install virtualenv
 ```
-than activate the virtual machine
+than activate the virtual machine.
+
+
 windows:
 ```
 .\env\Scripts\activateate
@@ -43,6 +45,7 @@ run the app:
 python -m flask run
 ```
 you got it!
+
 open your browser on http://localhost:5000/ and start!
 
 
