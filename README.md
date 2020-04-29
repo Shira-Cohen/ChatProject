@@ -1,9 +1,9 @@
 # Chat Project
 
-This repo provides RESTful API for chat management
+This repo provides RESTful API for chat management.
 
 
-The project was writen in python and using  “flask” microframework.
+The project was writen in python and used “flask” microframework.
 
 ### Prerequisites
 
