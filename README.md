@@ -7,11 +7,9 @@ The project was writen in python and using  “flask” microframework.
 
 ### Prerequisites
 
-you need VIsual Studio Code and python installed in your computer.
+you need Visual Studio Code and python installed in your computer.
 
-```
-Give examples
-```
+
 
 ### Install guide
 
@@ -25,33 +23,30 @@ $ cd ChatProject
 
 
 
-open the folder VS code and install: 
+open the folder in VS code and install: 
 
 ```
 pip3 install virtualenv
-
 ```
-than activate our virtual machine(windows):
-
+than activate the virtual machine
+windows:
 ```
 .\env\Scripts\activateate
 
 ```
 linux: 
-
 ```
 source env/bin/activateate
 
 ```
 
 run the app: 
-
 ```
 python -m flask run
 
 ```
 you got it!
-open the browser on http://localhost:5000/
+open your browser on http://localhost:5000/ and start!
 
 
 
