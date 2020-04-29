@@ -32,18 +32,15 @@ than activate the virtual machine
 windows:
 ```
 .\env\Scripts\activateate
-
 ```
 linux: 
 ```
 source env/bin/activateate
-
 ```
 
 run the app: 
 ```
 python -m flask run
-
 ```
 you got it!
 open your browser on http://localhost:5000/ and start!
