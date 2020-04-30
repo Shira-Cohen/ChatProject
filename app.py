@@ -36,8 +36,6 @@ def GetMessage():
     all_messages = [{'message_id':m.message_id,'application_id':m.application_id,'session_id':m.session_id,'content':m.content,'participants':m.participants} for m in messages]
     return jsonify(all_messages)
 
-
-
     return json.dumps([(dict(row.items())) for row in messages])
 
 @app.route('/DeleteMessage')
